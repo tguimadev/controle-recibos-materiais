@@ -59,19 +59,22 @@ Na prática, as organizações enfrentam problemas críticos:
 > *As capturas de tela abaixo utilizam dados 100% fictícios para demonstração.*
 
 ### 1. Painel Principal e Métricas
-![Uploading dashboard.png…]()
 
-
-![Painel Principal e Métricas](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/dashboard.png?raw=true)
+<img width="1421" height="728" alt="dashboard" src="https://github.com/user-attachments/assets/59e80a68-1694-4a99-823f-29c8be58f054" />
 
 ### 2. Formulário de Elaboração de Recibo
-![Formulário de Elaboração](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/formulario.png?raw=true)
+
+<img width="1429" height="736" alt="formulario" src="https://github.com/user-attachments/assets/b13433e9-f7e4-4dfb-965e-5b5057d68b3b" />
 
 ### 3. Minuta Oficial Formatada para Impressão A4
-![Minuta Oficial A4](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/impressao_a4.png?raw=true)
+
+<img width="1422" height="736" alt="impressao_a4" src="https://github.com/user-attachments/assets/d8bbcfac-90bc-4ee4-88d9-ea40a654d515" />
 
 ### 4. Gestão de Devoluções e Baixa de Pendências
-![Gestão de Devoluções](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/devolucao.png?raw=true)
+
+<img width="1423" height="734" alt="devolucao" src="https://github.com/user-attachments/assets/bb694254-69ce-46da-8b94-f753f76dac4f" />
+
+
 
 ---
 
