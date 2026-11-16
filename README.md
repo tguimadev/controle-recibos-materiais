@@ -202,8 +202,12 @@ Este repositório foi **estritamente auditado e sanitizado**:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Thiago Guimarães**.  
-Disponível para fins de estudo, demonstração de portfólio e evolução de projetos de automação operacional.
+Desenvolvido por **Thiago Guimarães**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tguimadev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tguimadev)
+
+Disponível para fins de estudo, demonstração de portfólio e evolução de projetos de automação operacional. Sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/tguimadev)!
 
 ---
 
