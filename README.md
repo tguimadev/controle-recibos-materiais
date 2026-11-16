@@ -1,7 +1,17 @@
 # 📋 Sistema de Controle e Emissão de Recibos de Materiais
 
 > Aplicação web desenvolvida em Python e Streamlit para gestão de fluxo de materiais, numeração sequencial contínua, geração de minutas timbradas em padrão A4 para assinatura física, controle estrito de pendências e arquivamento digital de comprovantes.
+> 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 
+  
+![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit&logoColor=white)
+
+  
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+  
+![Status](https://img.shields.io/badge/Status-Em%20Produ%C3%A7%C3%A3o-success)
 ---
 
 ## 📌 O Problema que o Sistema Resolve
