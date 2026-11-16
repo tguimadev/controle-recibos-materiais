@@ -59,16 +59,16 @@ Na prática, as organizações enfrentam problemas críticos:
 > *As capturas de tela abaixo utilizam dados 100% fictícios para demonstração.*
 
 ### 1. Painel Principal e Métricas
-![Painel Principal e Métricas](docs/dashboard.png)
+![Painel Principal e Métricas](./docs/dashboard.png)
 
 ### 2. Formulário de Elaboração de Recibo
-![Formulário de Elaboração](docs/formulario.png)
+![Formulário de Elaboração](./docs/formulario.png)
 
 ### 3. Minuta Oficial Formatada para Impressão A4
-![Minuta Oficial A4](docs/impressao_a4.png)
+![Minuta Oficial A4](./docs/impressao_a4.png)
 
 ### 4. Gestão de Devoluções e Baixa de Pendências
-![Gestão de Devoluções](docs/devolucao.png)
+![Gestão de Devoluções](./docs/devolucao.png)
 
 ---
 
