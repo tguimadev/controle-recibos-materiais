@@ -59,6 +59,9 @@ Na prática, as organizações enfrentam problemas críticos:
 > *As capturas de tela abaixo utilizam dados 100% fictícios para demonstração.*
 
 ### 1. Painel Principal e Métricas
+![Uploading dashboard.png…]()
+
+
 ![Painel Principal e Métricas](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/dashboard.png?raw=true)
 
 ### 2. Formulário de Elaboração de Recibo
