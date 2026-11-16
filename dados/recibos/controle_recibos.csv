@@ -1,0 +1,16 @@
+﻿numero,numerador_completo,data_elaboracao,horario_elaboracao,gerador_posto,gerador_re,gerador_nome,gerador_completo,gerador_unidade,recebedor_posto,recebedor_re,recebedor_nome,recebedor_completo,recebedor_unidade,destinatario,assunto,descricao_itens,status_assinatura,nome_arquivo,caminho_arquivo,data_upload
+1,001/2026,10/01/2026,09:30:00,Coordenador,10001-X,FULANO DE TAL,Coordenador 10001-X FULANO DE TAL,Unidade Exemplo – Setor de Logística,Analista,20002-Y,CICLANO DA SILVA,Analista 20002-Y CICLANO DA SILVA,Unidade Exemplo – Setor A,Unidade Exemplo – Setor A,MATERIAL DE ESCRITÓRIO E INFORMÁTICA,"[TABELA: MATERIAIS DE ESCRITÓRIO]
+05 | RESMAS DE PAPEL SULFITE A4
+02 | TONERS PARA IMPRESSORA LASER
+10 | CANETAS ESFEROGRÁFICAS AZUIS",Assinado,1.MATERIAL DE ESCRITORIO E INFORMATICA Analista 20002-Y CICLANO DA SILVA.pdf,dados/recibos/digitalizados/1.MATERIAL DE ESCRITORIO E INFORMATICA Analista 20002-Y CICLANO DA SILVA.pdf,10/01/2026 14:30:00
+2,002/2026,15/01/2026,11:15:00,Assistente,10003-Z,BELTRANO SOUZA,Assistente 10003-Z BELTRANO SOUZA,Unidade Exemplo – Setor de Logística,Técnico,20004-W,MARIA OLIVEIRA,Técnico 20004-W MARIA OLIVEIRA,Unidade Exemplo – Setor B,Unidade Exemplo – Setor B,EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI),"[TABELA: EQUIPAMENTOS DE SEGURANÇA]
+04 | CAPACETES DE SEGURANÇA BRANCOS
+04 | ÓCULOS DE PROTEÇÃO TRANSPARENTES
+08 | PARES DE LUVAS DE VAQUETA",pendencia de assinatura,,,
+3,003/2026,01/02/2026,14:00:00,Coordenador,10001-X,FULANO DE TAL,Coordenador 10001-X FULANO DE TAL,Unidade Exemplo – Setor de Logística,Supervisor,20005-K,JOSÉ SANTOS,Supervisor 20005-K JOSÉ SANTOS,Unidade Exemplo – Setor C,Unidade Exemplo – Setor C,FERRAMENTAS E ACESSÓRIOS DE MANUTENÇÃO,"01 (UM) JOGO DE CHAVES COMBINADAS DE 6MM A 22MM.
+01 (UM) MULTÍMETRO DIGITAL COM PONTAS DE PROVA.
+02 (DOIS) ROLOS DE FITA ISOLANTE.",Assinado,3.FERRAMENTAS E ACESSORIOS DE MANUTENCAO Supervisor 20005-K JOSE SANTOS.pdf,dados/recibos/digitalizados/3.FERRAMENTAS E ACESSORIOS DE MANUTENCAO Supervisor 20005-K JOSE SANTOS.pdf,01/02/2026 16:45:12
+4,004/2026,10/02/2026,16:20:00,Assistente,10003-Z,BELTRANO SOUZA,Assistente 10003-Z BELTRANO SOUZA,Unidade Exemplo – Setor de Logística,,,,,Unidade Exemplo – Operações,Unidade Exemplo – Operações,RETIRADA DE MATERIAIS DE CONSUMO,"[TABELA: MATERIAIS DE CONSUMO]
+10 | CAIXAS DE COPOS DESCARTÁVEIS 200ML
+05 | PACOTES DE CAFÉ 500G
+10 | PACOTES DE AÇÚCAR 1KG",pendencia de assinatura,,,

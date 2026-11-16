@@ -1,0 +1,46 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Variáveis de ambiente e credenciais
+.env
+.env.local
+.env.*.local
+*.env
+credentials.json
+credentials*.json
+service_account*.json
+client_secret*.json
+
+# Arquivos de dados pesados e gerados dinamicamente
+*.parquet
+*.xlsx
+*.xls
+logs/
+*.log
+backup/
+backups/
+*.bak
+
+# PDFs e digitalizações gerados em runtime (preserva apenas exemplos base do portfólio)
+dados/recibos/digitalizados/*
+!dados/recibos/digitalizados/.gitkeep
+!dados/recibos/digitalizados/*.pdf
+
+# Streamlit e IDEs
+.streamlit/secrets.toml
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
