@@ -59,28 +59,16 @@ Na prática, as organizações enfrentam problemas críticos:
 > *As capturas de tela abaixo utilizam dados 100% fictícios para demonstração.*
 
 ### 1. Painel Principal e Métricas
-<!-- Insira aqui o screenshot do dashboard inicial com os cards de métricas e abas -->
-```
-[ CAPTURA DE TELA: Dashboard com Métricas (Total, Pendentes, Assinados, Próximo Sequencial) ]
-```
+![Painel Principal e Métricas](docs/dashboard.png)
 
 ### 2. Formulário de Elaboração de Recibo
-<!-- Insira aqui o screenshot do formulário de preenchimento com a grade dinâmica de itens -->
-```
-[ CAPTURA DE TELA: Formulário com Grade Dinâmica de Materiais e Seleção de Destinatários ]
-```
+![Formulário de Elaboração](docs/formulario.png)
 
 ### 3. Minuta Oficial Formatada para Impressão A4
-<!-- Insira aqui o screenshot do documento gerado pronto para impressão -->
-```
-[ CAPTURA DE TELA: Visualização da Folha A4 formatada com cabeçalho, itens e termo de assinaturas ]
-```
+![Minuta Oficial A4](docs/impressao_a4.png)
 
 ### 4. Gestão de Devoluções e Baixa de Pendências
-<!-- Insira aqui o screenshot da tela de upload e renomeação padronizada -->
-```
-[ CAPTURA DE TELA: Seleção de recibo pendente, upload de via digitalizada e confirmação de baixa ]
-```
+![Gestão de Devoluções](docs/devolucao.png)
 
 ---
 
