@@ -4,8 +4,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-success)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://controle-recibos-materiais.streamlit.app/)
 
 > Aplicação web desenvolvida em Python e Streamlit para gestão de fluxo de materiais, numeração sequencial contínua, geração de minutas timbradas em padrão A4 para assinatura física, controle estrito de pendências e arquivamento digital de comprovantes.
+
+🔗 **Demonstração Online ao Vivo:** [https://controle-recibos-materiais.streamlit.app/](https://controle-recibos-materiais.streamlit.app/)
 
 ---
 
