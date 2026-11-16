@@ -59,16 +59,16 @@ Na prática, as organizações enfrentam problemas críticos:
 > *As capturas de tela abaixo utilizam dados 100% fictícios para demonstração.*
 
 ### 1. Painel Principal e Métricas
-![Painel Principal e Métricas](./docs/dashboard.png)
+![Painel Principal e Métricas](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/dashboard.png?raw=true)
 
 ### 2. Formulário de Elaboração de Recibo
-![Formulário de Elaboração](./docs/formulario.png)
+![Formulário de Elaboração](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/formulario.png?raw=true)
 
 ### 3. Minuta Oficial Formatada para Impressão A4
-![Minuta Oficial A4](./docs/impressao_a4.png)
+![Minuta Oficial A4](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/impressao_a4.png?raw=true)
 
 ### 4. Gestão de Devoluções e Baixa de Pendências
-![Gestão de Devoluções](./docs/devolucao.png)
+![Gestão de Devoluções](https://github.com/tguimadev/controle-recibos-materiais/blob/main/docs/devolucao.png?raw=true)
 
 ---
 
